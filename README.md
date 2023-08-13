@@ -11,7 +11,7 @@ Tracking checkboxes can be used by forking this repository and marking an X insi
 - [X] Solved
 
 ## Sliding Window
-- [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
+- [X] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/) --> [solution](https://www.youtube.com/watch?v=DfljaUwZsOk&ab_channel=NeetCode), dequeue use.
 
 - [ ] [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-substring/)
 
